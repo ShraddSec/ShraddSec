@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shraddha 👋
 
-<!--
-**ShraddSec/ShraddSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSIT (Cybersecurity) Student
 
-Here are some ideas to get you started:
+🔐 Cyber Security R&D Intern at IDevSec
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏴‍☠️ Technical Team Member at 0x0 PIR4T3S SSPU
+
+Interested in cybersecurity, web development, and building practical solutions through projects.
+
+## Projects
+
+- VulnX — Website Vulnerability Scanner
+- RiskLens — App Permission Risk Analyzer
+- TourNova — Smart India Hackathon Project
+- Intentra — Task Management Application
+- Winglet — Browser-Based Game
+
+## CyberChronicles
+
+Documenting my cybersecurity learning journey, projects, certifications, and experiences.
