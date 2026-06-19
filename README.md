@@ -48,5 +48,5 @@ Contributing to cybersecurity learning initiatives, events, and community activi
 
 ## Connect
 
-* LinkedIn: linkedin.com/in/shraddha-shinde-21s26
-* GitHub: github.com/ShraddSec
+* LinkedIn: https://linkedin.com/in/shraddha-shinde-21s26
+* GitHub: https://github.com/ShraddSec
