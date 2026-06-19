@@ -22,7 +22,7 @@
 
 ## Projects
 
-* **VulnX** — Website Vulnerability Scanner *(ongoing)*
+* **VulnX** — Website Vulnerability Scanner
 * **RiskLens** — App Permission Risk Analyzer *(ongoing)*
 * **TourNova** — Smart India Hackathon Project
 * **Intentra** — Task Management Application
