@@ -192,20 +192,6 @@ https://shradd-sec-portfolio.vercel.app
 
 ---
 
-# ⚡ Fun Facts
-
-📚 I enjoy reading books beyond tech.
-
-🛡️ Passionate about cybersecurity and ethical hacking.
-
-💻 Linux is my preferred environment for security labs.
-
-☕ Coffee + Music = Productive coding sessions.
-
-🚀 Always curious to learn something new every day.
-
----
-
 <p align="center">
 
 ### ⭐ Thanks for visiting my profile!
