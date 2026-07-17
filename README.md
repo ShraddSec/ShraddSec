@@ -13,10 +13,6 @@ Cybersecurity Student • Frontend Developer • Security Research Enthusiast
 Building secure web applications, exploring vulnerabilities, and documenting my cybersecurity journey.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShraddSec&label=Profile%20Views&color=2563EB&style=flat" />
-</p>
-
 ---
 
 # 👩‍💻 About Me
@@ -107,30 +103,6 @@ Minimal browser-based task management application.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShraddSec&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddSec&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ShraddSec&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShraddSec&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -175,22 +147,10 @@ https://shradd-sec-portfolio.vercel.app
 
 ---
 
-# ⚡ Fun Facts
-
-📚 I enjoy reading books beyond tech.
-
-🛡️ Passionate about cybersecurity and ethical hacking.
-
-🎯 Always building something new.
-
-☕ Coffee + Music = Productive coding sessions.
-
----
-
 <p align="center">
 
 ### ⭐ Thanks for visiting!
 
-*"Breaking things ethically. Building things securely."*
+> "The quieter you become, the more you are able to hear."
 
 </p>
