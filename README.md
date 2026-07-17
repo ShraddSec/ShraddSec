@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Shraddha%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20•%20Frontend%20Developer%20•%20Security%20Researcher&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Shraddha%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20•%20Web%20Security%20Researcher&descAlignY=55"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shraddha</h1>
@@ -10,102 +10,70 @@ Cybersecurity Student • Frontend Developer • Security Research Enthusiast
 </h3>
 
 <p align="center">
-Building secure applications, exploring web vulnerabilities, and continuously learning.
+Building secure web applications, exploring vulnerabilities, and documenting my cybersecurity journey.
 </p>
 
 <p align="center">
-<a href="https://github.com/ShraddSec">
-<img src="https://komarev.com/ghpvc/?username=ShraddSec&label=Profile+Views&color=2563EB&style=flat"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=ShraddSec&label=Profile%20Views&color=2563EB&style=flat" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 B.Tech CSIT (Cybersecurity) Student
+🎓 B.Tech CSIT (Cybersecurity) Student at Symbiosis Skills & Professional University
 
-🛡️ Interested in Web Application Security, Vulnerability Research & Secure Development
+🛡️ Cyber Security R&D Intern
 
-💻 Frontend Developer passionate about building clean and secure web applications
+🔍 Passionate about Web Application Security, Vulnerability Research & Responsible Disclosure
 
-🌱 Currently learning React, Flask, OWASP Top 10 and Advanced Web Security
+💻 Frontend Developer building projects with HTML, CSS & JavaScript
 
-🚀 Always looking for opportunities to learn, collaborate and contribute to open source.
+🌱 Currently learning Python, Linux, Networking, and Advanced Web Security
+
+🚀 Open to internships, collaborations, and open-source contributions
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,flask,git,github,linux,mysql,vscode,bash&perline=6"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,linux,vscode&perline=4"/>
 </p>
 
 ---
 
-# 🔐 Cybersecurity Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode"/>
-
-</p>
-
-**Also Familiar With**
+# 🛡️ Cybersecurity Toolkit
 
 - Burp Suite
-- Wireshark
 - Nmap
+- Subfinder
 - VirtualBox
-- OWASP Top 10
-- HTTP Headers
-- Reconnaissance
-- Vulnerability Assessment
-
----
-
-# 📚 Currently Learning
-
-- React.js
-- Flask
-- Secure Coding
-- Web Application Security
-- Bug Bounty Hunting
-- Network Security
-- API Security
+- Kali Linux
+- Ubuntu
+- OWASP Top 10 (Foundational)
+- Responsible Vulnerability Disclosure (RVDP)
+- Security Headers Analysis
+- Clickjacking Assessment
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡 VulnX
-Website Vulnerability Scanner built using Python & Flask focusing on defensive cybersecurity.
+### 🛡️ VulnX
+Website Vulnerability Scanner focused on identifying common web security issues.
 
----
+### 🔐 RiskLens *(In Progress)*
+Android Permission Risk Analyzer helping users understand application permissions and privacy risks.
 
-## 🔐 RiskLens
-
-Android Permission Risk Analyzer helping users understand application permissions.
-
----
-
-## ✈ TourNova
-
+### ✈️ TourNova
 Smart Tourism Platform built for Smart India Hackathon.
 
----
+### 📋 Intentra
+Minimal browser-based task management application.
 
-## 📋 Intentra
-
-Task Management Application focused on productivity and minimal design.
-
----
-
-## 🐦 Winglet
-
-Browser-based Flappy Bird clone built using HTML, CSS & JavaScript.
+### 🐦 Winglet
+2D browser game inspired by Flappy Bird using HTML, CSS & JavaScript.
 
 ---
 
@@ -113,32 +81,33 @@ Browser-based Flappy Bird clone built using HTML, CSS & JavaScript.
 
 ## Cyber Security R&D Intern
 
-- Vulnerability Assessment
-- Security Documentation
 - Web Security Research
+- Vulnerability Assessment
+- Technical Documentation
 - Responsible Disclosure Practices
 
 ---
 
 ## Technical Team Member
 
-0x0 PIR4T3S SSPU
+**0x0 PIR4T3S SSPU**
 
-- Community Events
-- Technical Workshops
 - Cybersecurity Learning Initiatives
+- Community Activities
+- Technical Workshops
 
 ---
 
 # 📜 Certifications
 
-- Cisco Introduction to Cybersecurity
-- CyberDefenders 101
-- Splunk in Action
+- Cisco – Introduction to Cybersecurity
+- NYU – Introduction to Cyber Attacks
+- InfosecTrain – Cyber Defenders 101
+- EF SET English Certificate (C2 Proficient)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -149,26 +118,35 @@ Browser-based Flappy Bird clone built using HTML, CSS & JavaScript.
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=ShraddSec&theme=github-dark-blue&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 GitHub Trophies
 
-✅ Build more security-focused projects
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShraddSec&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
 
-✅ Learn React thoroughly
+---
 
-✅ Contribute to Open Source
+# 📈 Contribution Graph
 
-✅ Participate in Capture The Flag (CTF) competitions
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShraddSec&theme=github-compact"/>
+</p>
 
-✅ Publish cybersecurity write-ups
+---
 
-✅ Explore Bug Bounty & Responsible Disclosure
+# 🎯 Current Goals
+
+- 🛡️ Build more security-focused projects
+- 🌐 Learn modern frontend development
+- 🔍 Explore Bug Bounty & Responsible Disclosure
+- 🏁 Participate in CTF competitions
+- 🤝 Contribute to Open Source
+- ✍️ Publish cybersecurity write-ups
 
 ---
 
@@ -186,16 +164,33 @@ Browser-based Flappy Bird clone built using HTML, CSS & JavaScript.
 
 </p>
 
-🌐 Portfolio
-
+**🌍 Portfolio:**  
 https://shradd-sec-portfolio.vercel.app
+
+---
+
+# 💡 Quote
+
+> *"Security is not a product, but a process."* — Bruce Schneier
+
+---
+
+# ⚡ Fun Facts
+
+📚 I enjoy reading books beyond tech.
+
+🛡️ Passionate about cybersecurity and ethical hacking.
+
+🎯 Always building something new.
+
+☕ Coffee + Music = Productive coding sessions.
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-> "The quieter you become, the more you are able to hear."
+*"Breaking things ethically. Building things securely."*
 
 </p>
