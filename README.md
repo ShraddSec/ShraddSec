@@ -1,7 +1,10 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Shraddha%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20•%20Web%20Security%20Researcher&descAlignY=55"/>
-</p>
+███████╗██╗  ██╗██████╗  █████╗ ██████╗ ██████╗ ███████╗███████╗ ██████╗
+██╔════╝██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝
+███████╗███████║██████╔╝███████║██║  ██║██║  ██║███████╗█████╗  ██║     
+╚════██║██╔══██║██╔══██╗██╔══██║██║  ██║██║  ██║╚════██║██╔══╝  ██║     
+███████║██║  ██║██║  ██║██║  ██║██████╔╝██████╔╝███████║███████╗╚██████╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝╚══════╝ ╚═════╝
 
 <h1 align="center">Hi 👋, I'm Shraddha</h1>
 
