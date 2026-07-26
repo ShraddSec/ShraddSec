@@ -2,62 +2,64 @@
 
 # SHRADDHA
 
-### Security Researcher • Cybersecurity Student • Developer
+### Security Researcher • Cybersecurity Student • Builder
 
-*"Exploring systems with curiosity. Securing them with responsibility."*
+> *Building secure software through curiosity, research, and responsible disclosure.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+secure+software...;Researching+web+security...;Reporting+vulnerabilities...;Documenting+everything+I+learn." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=66D9E8&center=true&vCenter=true&width=700&lines=Researching+Web+Security...;Building+Glasshouse...;Writing+CyberChronicles...;Finding+vulnerabilities+responsibly." />
 
 </div>
 
 ---
 
-```txt
+```text
+──────────────────────────────────────────────────────────────
+
 CYBERCHRONICLES // ENTRY_026
-────────────────────────────────────────────────────────────
 
-STATUS        ACTIVE
+STATUS          ACTIVE
 
-LOCATION      Pune, India
+ROLE            Security Researcher
+                Cybersecurity Student
+                Developer
 
-ROLE          Cyber Security Researcher
-              B.Tech CS & IT (Cybersecurity)
+LOCATION        Pune, India
 
-MISSION       Learn.
-              Build.
-              Break responsibly.
-              Share knowledge.
+MISSION         Learn.
+                Build.
+                Break responsibly.
+                Share knowledge.
 
-CURRENT FOCUS Web Security
-              Digital Forensics
-              Secure Development
-              Privacy
+FOCUS           Web Security
+                Vulnerability Research
+                Digital Forensics
+                Secure Development
 
-────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────
 ```
 
-## About
+# About
 
-I'm a **Cyber Security** student at **Symbiosis Skills and Professional University** with a strong interest in understanding how systems fail—and how to build them better.
+I’m a **B.Tech Computer Science & IT (Cybersecurity)** student at **Symbiosis Skills and Professional University (2025–2029)**.
 
-Outside academics, I participate in **Responsible Vulnerability Disclosure Programs**, build security-focused projects, and publicly document my learning through **CyberChronicles**.
+I'm passionate about understanding how systems fail, discovering vulnerabilities, and building software that is secure by design.
 
-I believe the best way to learn security is by building, breaking, fixing, and sharing.
+Outside academics, I participate in **Responsible Vulnerability Disclosure Programs (RVDPs)**, contribute to security research, and document everything I learn through **CyberChronicles**.
 
 ---
 
-## Current Operations
+# Current Operations
 
-```text
-[✓] Cyber Security R&D Intern @ iDevSec
+```diff
++ Cyber Security R&D Intern @ iDevSec
 
-[✓] Building CyberChronicles
++ Responsible Vulnerability Disclosure Research
 
-[✓] Responsible Vulnerability Disclosure
++ Building Glasshouse
 
-[✓] Learning React & Node.js
++ Writing CyberChronicles
 
-[✓] Building Glasshouse
++ Learning React & Node.js
 ```
 
 ---
@@ -65,76 +67,79 @@ I believe the best way to learn security is by building, breaking, fixing, and s
 # Projects
 
 ### 🛡 VulnX
+
 Website Vulnerability Scanner
 
-> HTML • CSS • JavaScript
+`HTML` • `CSS` • `JavaScript`
 
 ---
 
-### 📱 RiskLens *(WIP)*
+### 📱 RiskLens *(Work in Progress)*
+
 Android Permission & Privacy Risk Analyzer
 
-> Python
+`Python`
 
 ---
 
 ### 🌍 TourNova
-Smart Tourism Platform (Smart India Hackathon)
 
-> HTML • CSS • JavaScript
+Smart Tourism Platform
+
+`HTML` • `CSS` • `JavaScript`
 
 ---
 
 ### 🎮 Winglet
+
 2D Arcade Game
 
-> HTML • CSS • JavaScript
+`HTML` • `CSS` • `JavaScript`
 
 ---
 
 ### ✅ Intentra
+
 Task Management Application
 
-> HTML • CSS • JavaScript
+`HTML` • `CSS` • `JavaScript`
 
 ---
 
-# Tech
+# Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,linux,bash,vscode"/>
 
 </p>
 
-### Security Stack
+---
+
+# Security Toolkit
 
 ```text
 Burp Suite
-
 Nmap
-
 OWASP Top 10
-
 Subfinder
-
 VirtualBox
-
-Linux
+Linux CLI
+Git
 ```
 
 ---
 
 # Research
 
-```
-20+ Responsible Vulnerability Disclosure Reports
+```text
+Responsible Disclosure Reports   20+
 
-13 Reports Validated
+Reports Validated                13
 
-Geotab Hall of Fame
+Hall of Fame                     Geotab
 
-CyberChronicles
+Research Journal                 CyberChronicles
 ```
 
 ---
@@ -143,8 +148,8 @@ CyberChronicles
 
 - Cisco Introduction to Cybersecurity
 - NYU Cybersecurity Fundamentals
-- EF SET
-- InfosecTrain
+- EF SET English Certificate
+- InfosecTrain Security Training
 
 ---
 
@@ -152,15 +157,27 @@ CyberChronicles
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShraddSec&theme=github_dark&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShraddSec&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShraddSec&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ShraddSec&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddSec&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddSec&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/ShraddSec">GitHub</a> •
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
 
 </p>
 
@@ -168,18 +185,10 @@ CyberChronicles
 
 <div align="center">
 
-### Connect
+```text
+$ logout
 
-<a href="https://github.com/ShraddSec">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-
----
-
-```
-$ exit
-
-Session terminated.
+Research never really ends.
 
 See you in the next CyberChronicles entry.
 ```
